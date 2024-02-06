@@ -18,13 +18,17 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on the [website](https://manungar.github.io/BMLoradelRio/) for the municipal music band from Lora del Río</p>
+- 🔭 I’m currently working on the [website](https://manungar.github.io/BMLoradelRio/) for the municipal music band from Lora del Río
 
 ###
 <h3 align="left">Connect with me:</h3>
+
+###
+
 <p align="left">
 <a href="https://instagram.com/mannung_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mannung_4" height="30" width="40" /></a>
 </p>
+
 ###
 
 <h2 align="left">I code with</h2>
