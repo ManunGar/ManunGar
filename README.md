@@ -13,14 +13,6 @@
 <p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning Full-Stack Development<br>🎯 Goals: Becoming a Full-Stack Developer<br>🎲 Fun fact: Creative, artist and musician</p>
 
 ###
-
-<h2 align="left">Current Project</h2>
-
-###
-
-- 🔭 I’m currently working on the [website](https://manungar.github.io/BMLoradelRio/) for the municipal music band from Lora del Río
-
-###
 <h3 align="left">Connect with me:</h3>
 
 ###
