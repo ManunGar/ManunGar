@@ -1,44 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hola 👋, soy Manuel Nuño García</h1>
+<h3 align="center">Apasionado por el desarrollo full stack y la creación de soluciones que conecten ideas con tecnología.</h3>
 
-###
+---
 
-<p align="left">My name is Manuel and I'm a University Student in Software Engineering, from Spain</p>
+🌟 **Sobre mí**  
+Soy estudiante de Ingeniería del Software en la Universidad de Sevilla y un futuro desarrollador full stack.  
+Me encanta construir aplicaciones útiles, aprender nuevas tecnologías y colaborar en proyectos que supongan un reto.  
+Mi objetivo es desarrollar software de calidad que sea tanto funcional como estéticamente atractivo.  
 
-###
+---
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning Full-Stack Development<br>🎯 Goals: Becoming a Full-Stack Developer<br>🎲 Fun fact: Creative, artist and musician</p>
-
-###
-<h3 align="left">Connect with me:</h3>
-
-###
+### 🌐 Conecta conmigo
 
 <p align="left">
-<a href="https://instagram.com/mannung_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mannung_4" height="30" width="40" /></a>
+  <a href="mailto:nunogarciamanuel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
+  </a>
+  <a href="https://www.instagram.com/mannung_4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 🛠️ Tecnologías y Herramientas
 
-###
+#### Lenguajes
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql" />
+</p>
 
-###
+#### Frameworks y Librerías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,sequelize,react,spring" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManunGar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManunGar&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
